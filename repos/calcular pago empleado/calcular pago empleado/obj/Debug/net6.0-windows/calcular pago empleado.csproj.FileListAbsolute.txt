@@ -1,0 +1,17 @@
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\bin\Debug\net6.0-windows\calcular pago empleado.exe
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\bin\Debug\net6.0-windows\calcular pago empleado.deps.json
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\bin\Debug\net6.0-windows\calcular pago empleado.runtimeconfig.json
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\bin\Debug\net6.0-windows\calcular pago empleado.dll
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\bin\Debug\net6.0-windows\calcular pago empleado.pdb
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\obj\Debug\net6.0-windows\calcular pago empleado.csproj.AssemblyReference.cache
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\obj\Debug\net6.0-windows\calcular_pago_empleado.Form1.resources
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\obj\Debug\net6.0-windows\calcular pago empleado.csproj.GenerateResource.cache
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\obj\Debug\net6.0-windows\calcular pago empleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\obj\Debug\net6.0-windows\calcular pago empleado.AssemblyInfoInputs.cache
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\obj\Debug\net6.0-windows\calcular pago empleado.AssemblyInfo.cs
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\obj\Debug\net6.0-windows\calcular pago empleado.csproj.CoreCompileInputs.cache
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\obj\Debug\net6.0-windows\calcular pago empleado.dll
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\obj\Debug\net6.0-windows\refint\calcular pago empleado.dll
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\obj\Debug\net6.0-windows\calcular pago empleado.pdb
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\obj\Debug\net6.0-windows\calcular pago empleado.genruntimeconfig.cache
+C:\Users\HP LAPTOP\source\repos\calcular pago empleado\calcular pago empleado\obj\Debug\net6.0-windows\ref\calcular pago empleado.dll

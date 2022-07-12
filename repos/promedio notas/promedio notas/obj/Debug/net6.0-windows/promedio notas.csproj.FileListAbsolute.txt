@@ -1,0 +1,17 @@
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\bin\Debug\net6.0-windows\promedio notas.exe
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\bin\Debug\net6.0-windows\promedio notas.deps.json
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\bin\Debug\net6.0-windows\promedio notas.runtimeconfig.json
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\bin\Debug\net6.0-windows\promedio notas.dll
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\bin\Debug\net6.0-windows\promedio notas.pdb
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\obj\Debug\net6.0-windows\promedio notas.csproj.AssemblyReference.cache
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\obj\Debug\net6.0-windows\promedio_notas.Form1.resources
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\obj\Debug\net6.0-windows\promedio notas.csproj.GenerateResource.cache
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\obj\Debug\net6.0-windows\promedio notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\obj\Debug\net6.0-windows\promedio notas.AssemblyInfoInputs.cache
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\obj\Debug\net6.0-windows\promedio notas.AssemblyInfo.cs
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\obj\Debug\net6.0-windows\promedio notas.csproj.CoreCompileInputs.cache
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\obj\Debug\net6.0-windows\promedio notas.dll
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\obj\Debug\net6.0-windows\refint\promedio notas.dll
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\obj\Debug\net6.0-windows\promedio notas.pdb
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\obj\Debug\net6.0-windows\promedio notas.genruntimeconfig.cache
+C:\Users\HP LAPTOP\source\repos\promedio notas\promedio notas\obj\Debug\net6.0-windows\ref\promedio notas.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "calcular pago empleado/1.0.0": {
+        "runtime": {
+          "calcular pago empleado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calcular pago empleado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

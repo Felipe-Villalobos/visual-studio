@@ -1,0 +1,17 @@
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\bin\Debug\net6.0-windows\Probabilidad Costo Viaje.exe
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\bin\Debug\net6.0-windows\Probabilidad Costo Viaje.deps.json
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\bin\Debug\net6.0-windows\Probabilidad Costo Viaje.runtimeconfig.json
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\bin\Debug\net6.0-windows\Probabilidad Costo Viaje.dll
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\bin\Debug\net6.0-windows\Probabilidad Costo Viaje.pdb
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\obj\Debug\net6.0-windows\Probabilidad Costo Viaje.csproj.AssemblyReference.cache
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\obj\Debug\net6.0-windows\Probabilidad_Costo_Viaje.Form1.resources
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\obj\Debug\net6.0-windows\Probabilidad Costo Viaje.csproj.GenerateResource.cache
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\obj\Debug\net6.0-windows\Probabilidad Costo Viaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\obj\Debug\net6.0-windows\Probabilidad Costo Viaje.AssemblyInfoInputs.cache
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\obj\Debug\net6.0-windows\Probabilidad Costo Viaje.AssemblyInfo.cs
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\obj\Debug\net6.0-windows\Probabilidad Costo Viaje.csproj.CoreCompileInputs.cache
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\obj\Debug\net6.0-windows\Probabilidad Costo Viaje.dll
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\obj\Debug\net6.0-windows\refint\Probabilidad Costo Viaje.dll
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\obj\Debug\net6.0-windows\Probabilidad Costo Viaje.pdb
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\obj\Debug\net6.0-windows\Probabilidad Costo Viaje.genruntimeconfig.cache
+C:\Users\HP LAPTOP\source\repos\Probabilidad Costo Viaje\Probabilidad Costo Viaje\obj\Debug\net6.0-windows\ref\Probabilidad Costo Viaje.dll

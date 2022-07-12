@@ -1,0 +1,18 @@
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\bin\Debug\net6.0-windows\actividad IVA.exe
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\bin\Debug\net6.0-windows\actividad IVA.deps.json
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\bin\Debug\net6.0-windows\actividad IVA.runtimeconfig.json
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\bin\Debug\net6.0-windows\actividad IVA.dll
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\bin\Debug\net6.0-windows\actividad IVA.pdb
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\actividad IVA.csproj.AssemblyReference.cache
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\actividad IVA.csproj.GenerateResource.cache
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\actividad IVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\actividad IVA.AssemblyInfoInputs.cache
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\actividad IVA.AssemblyInfo.cs
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\actividad IVA.csproj.CoreCompileInputs.cache
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\actividad IVA.dll
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\refint\actividad IVA.dll
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\actividad IVA.pdb
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\actividad IVA.genruntimeconfig.cache
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\ref\actividad IVA.dll
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\actividad_IVA.Calculos.resources
+C:\Users\HP LAPTOP\source\repos\actividad IVA\actividad IVA\obj\Debug\net6.0-windows\actividad_IVA.Properties.Resources.resources

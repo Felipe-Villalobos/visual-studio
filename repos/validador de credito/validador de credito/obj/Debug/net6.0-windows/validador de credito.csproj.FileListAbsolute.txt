@@ -1,0 +1,17 @@
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\bin\Debug\net6.0-windows\validador de credito.exe
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\bin\Debug\net6.0-windows\validador de credito.deps.json
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\bin\Debug\net6.0-windows\validador de credito.runtimeconfig.json
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\bin\Debug\net6.0-windows\validador de credito.dll
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\bin\Debug\net6.0-windows\validador de credito.pdb
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\obj\Debug\net6.0-windows\validador de credito.csproj.AssemblyReference.cache
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\obj\Debug\net6.0-windows\validador_de_credito.Form1.resources
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\obj\Debug\net6.0-windows\validador de credito.csproj.GenerateResource.cache
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\obj\Debug\net6.0-windows\validador de credito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\obj\Debug\net6.0-windows\validador de credito.AssemblyInfoInputs.cache
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\obj\Debug\net6.0-windows\validador de credito.AssemblyInfo.cs
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\obj\Debug\net6.0-windows\validador de credito.csproj.CoreCompileInputs.cache
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\obj\Debug\net6.0-windows\validador de credito.dll
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\obj\Debug\net6.0-windows\refint\validador de credito.dll
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\obj\Debug\net6.0-windows\validador de credito.pdb
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\obj\Debug\net6.0-windows\validador de credito.genruntimeconfig.cache
+C:\Users\HP LAPTOP\source\repos\validador de credito\validador de credito\obj\Debug\net6.0-windows\ref\validador de credito.dll

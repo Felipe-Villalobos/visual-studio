@@ -1,0 +1,17 @@
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\bin\Debug\net6.0-windows\calcular area triangulo.exe
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\bin\Debug\net6.0-windows\calcular area triangulo.deps.json
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\bin\Debug\net6.0-windows\calcular area triangulo.runtimeconfig.json
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\bin\Debug\net6.0-windows\calcular area triangulo.dll
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\bin\Debug\net6.0-windows\calcular area triangulo.pdb
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\obj\Debug\net6.0-windows\calcular area triangulo.csproj.AssemblyReference.cache
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\obj\Debug\net6.0-windows\calcular_area_triangulo.Form1.resources
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\obj\Debug\net6.0-windows\calcular area triangulo.csproj.GenerateResource.cache
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\obj\Debug\net6.0-windows\calcular area triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\obj\Debug\net6.0-windows\calcular area triangulo.AssemblyInfoInputs.cache
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\obj\Debug\net6.0-windows\calcular area triangulo.AssemblyInfo.cs
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\obj\Debug\net6.0-windows\calcular area triangulo.csproj.CoreCompileInputs.cache
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\obj\Debug\net6.0-windows\calcular area triangulo.dll
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\obj\Debug\net6.0-windows\refint\calcular area triangulo.dll
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\obj\Debug\net6.0-windows\calcular area triangulo.pdb
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\obj\Debug\net6.0-windows\calcular area triangulo.genruntimeconfig.cache
+C:\Users\HP LAPTOP\source\repos\calcular area triangulo\calcular area triangulo\obj\Debug\net6.0-windows\ref\calcular area triangulo.dll

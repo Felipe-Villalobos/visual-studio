@@ -1,0 +1,17 @@
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\bin\Debug\net6.0-windows\conversión de divisas.exe
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\bin\Debug\net6.0-windows\conversión de divisas.deps.json
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\bin\Debug\net6.0-windows\conversión de divisas.runtimeconfig.json
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\bin\Debug\net6.0-windows\conversión de divisas.dll
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\bin\Debug\net6.0-windows\conversión de divisas.pdb
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\obj\Debug\net6.0-windows\conversión de divisas.csproj.AssemblyReference.cache
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\obj\Debug\net6.0-windows\conversión_de_divisas.Form1.resources
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\obj\Debug\net6.0-windows\conversión de divisas.csproj.GenerateResource.cache
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\obj\Debug\net6.0-windows\conversión de divisas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\obj\Debug\net6.0-windows\conversión de divisas.AssemblyInfoInputs.cache
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\obj\Debug\net6.0-windows\conversión de divisas.AssemblyInfo.cs
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\obj\Debug\net6.0-windows\conversión de divisas.csproj.CoreCompileInputs.cache
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\obj\Debug\net6.0-windows\conversión de divisas.dll
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\obj\Debug\net6.0-windows\refint\conversión de divisas.dll
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\obj\Debug\net6.0-windows\conversión de divisas.pdb
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\obj\Debug\net6.0-windows\conversión de divisas.genruntimeconfig.cache
+C:\Users\HP LAPTOP\source\repos\conversión de divisas\conversión de divisas\obj\Debug\net6.0-windows\ref\conversión de divisas.dll
